@@ -1,3 +1,6 @@
+<img width="1916" height="1038" alt="image" src="https://github.com/user-attachments/assets/91431758-f2fe-4205-8626-6121bae5aa8c" />
+
+
 # Kitty terminal theme :
 nano ~/.config/kitty/kitty.conf
 
